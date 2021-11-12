@@ -1,0 +1,120 @@
+body {
+    padding-top: 4.8rem;
+}
+
+#menu-link {
+    margin-left: 1rem;
+}
+
+#subscribe {
+    margin-left: 1rem;
+}
+
+.box-shadow {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 2px rgb(0, 0, 0, 0.5);
+}
+
+.text-shadow2 {
+    text-shadow: 2px 2px 7px rgba(0, 0, 0, 1);
+}
+
+.align-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.newsletter-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+}
+
+.error-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 70vh;
+}
+
+.icon {
+    height: 5rem;
+}
+
+#home-quote {
+    background: url('./assets/bg-quote.jpg') center center;
+    background-size: cover;
+}
+
+.social-media {
+    max-width: 16rem;
+}
+
+.back-to-top .top {
+    position: fixed;
+    cursor: pointer;
+    bottom: 15px;
+    right: 15px;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #154388;
+    z-index: 4;
+    width: 45px;
+    text-align: center;
+    height: 45px;
+    line-height: 45px;
+    border-radius: 50%;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+  
+.back-to-top .top:hover {
+    color: #154388;
+    background: #ffffff;
+}
+
+.plan-list li + li {
+    border-top: 1px solid rgb(0, 0, 0,.2);
+}
+
+.plan-list li {
+    padding: 1rem;
+}
+
+.no-resize {
+    resize: none;
+}
+
+.send-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+    margin-top: 1rem;
+}
+
+.align-social {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.send-signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: green;
+    margin-top: 1rem;
+}
