@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom'
 export const App = () => {
 
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
     <Header />
     <Router />
     <Footer />
