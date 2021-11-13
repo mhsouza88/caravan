@@ -7,7 +7,7 @@
  
  
  <h2> ⚛️ Sobre</h2>
- <p>Projeto individual feito durante o curso de <b>Bootstrap 4</b> da <a href="https://www.origamid.com/" target="_blank">Origamid</a>. A Caravan é uma empresa fictícia de viagens que oferece planos de viagens a preços interessantes. O site não possui backend, porém com um pouco de JavaScript eu consegui simular algumas funcionalidades (por exemplo: quando o usuário clica no botão "enviar" de um dos formulários ele recebe uma mensagem dentro de um <i>span</i> que avisa que o conteúdo foi enviado com sucesso). Outra coisa que vale a pena mencionar é o fato de que o curso foi de Bootstrap 4 porém eu utilizei o React-Bootstrap 5 junto com o React.js para este projeto. Adicionei pequenas coisas também (como um <i>Scroll to Top</i> e o <i>React-router-dom</i>).</p><br/>
+ <p>Projeto individual feito durante o curso de <b>Bootstrap 4</b> da <a href="https://www.origamid.com/" target="_blank">Origamid</a>. A Caravan é uma empresa fictícia que oferece planos de viagens a preços interessantes. O site não possui backend, porém com um pouco de JavaScript eu consegui simular algumas funcionalidades (por exemplo: quando o usuário clica no botão "enviar" de um dos formulários ele recebe uma mensagem dentro de um <i>span</i> que avisa que o conteúdo foi "enviado com sucesso"). Outra coisa que vale a pena mencionar é o fato de que o curso foi de Bootstrap 4 porém eu utilizei o React-Bootstrap 5 junto com o React.js para este projeto. Adicionei alguns elementos extras também (como um <i>Scroll to Top</i> e o <i>React-router-dom</i>).</p><br/>
  
  
  <h2> 🔗 Link (surge)</h2>
