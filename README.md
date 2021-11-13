@@ -16,9 +16,9 @@
 
 <h2> 🛠️ Tecnologias</h2>
 <p> - <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a> (v17.0.2): React é uma biblioteca JavaScript para construção de interfaces de usuário.</p>
-<p> - <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> (v5.1): Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.</p>
-<p> - <a href="https://react-bootstrap.netlify.app/" target="_blank">React-Bootstrap</a> (v2.0.0-rc.1 - Bootstrap 5.1): O React-Bootstrap substitui o JavaScript Bootstrap. Cada componente foi construído do zero como um verdadeiro componente React.</p>
-<p> - <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank">React-router-dom</a> (v5.3.0): O React Router é uma lib completa para controle de rotas que permite que você consiga configurar as rotas utilizando o formato JSX e também disponibiliza uma API para você configurar diretamente via Javascript.</p><br/>
+<p> - <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> (v5.1): Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript.</p>
+<p> - <a href="https://react-bootstrap.netlify.app/" target="_blank">React-Bootstrap</a> (v2.0.0-rc.1 - Bootstrap 5.1): O React-Bootstrap é uma biblioteca que nos oferece os componentes Bootstrap construídos em React.</p>
+<p> - <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank">React-router-dom</a> (v5.3.0): O React Router é uma biblioteca do React que permite a navegação entre diversas partes da aplicação, como páginas.</p><br/>
 
 
 <h2> 🖼️ Imagens (clique em cima da imagem para vê-la em tamanho maior)</h2>
