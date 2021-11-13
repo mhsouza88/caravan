@@ -7,7 +7,7 @@
  
  
  <h2> ⚛️ Sobre</h2>
- <p>Projeto individual feito durante o curso de <b>Bootstrap 4</b> da <a href="https://www.origamid.com/" target="_blank">Origamid</a>. A Caravan é uma empresa fictícia que oferece planos de viagens a preços interessantes. O site não possui backend, porém com um pouco de JavaScript eu consegui simular algumas funcionalidades (por exemplo: quando o usuário clica no botão "enviar" de um dos formulários ele recebe uma mensagem dentro de um <i>span</i> que avisa que o conteúdo foi "enviado com sucesso"). Outra coisa que vale a pena mencionar é o fato de que o curso foi de Bootstrap 4 porém eu utilizei o React-Bootstrap 5 junto com o React.js para este projeto. Adicionei alguns elementos extras também (como um <i>Scroll to Top</i> e o <i>React-router-dom</i>).</p><br/>
+ <p>Projeto feito durante o curso de <b>Bootstrap 4</b> da <a href="https://www.origamid.com/" target="_blank">Origamid</a>. A Caravan é uma empresa fictícia que oferece planos de viagens a preços interessantes. O site não possui backend, porém com um pouco de JavaScript eu consegui simular algumas funcionalidades (por exemplo: quando o usuário clica no botão "enviar" de um dos formulários ele recebe uma mensagem dentro de um <i>span</i> que avisa que o conteúdo foi "enviado com sucesso"). Outra coisa que vale a pena mencionar é o fato de que o curso foi de Bootstrap 4 porém eu utilizei o React-Bootstrap 5 junto com o React.js para este projeto. Adicionei alguns elementos extras também (como um <i>Scroll to Top</i> e o <i>React-router-dom</i>).</p><br/>
  
  
  <h2> 🔗 Link (surge)</h2>
@@ -79,12 +79,15 @@
 </table>
   <p></p>
 <br/>
+  
+  
  
 <h2> 💻 Pré-requisitos </h2>
 
 <p>Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas: o <a href="https://git-scm.com" target="_blank">Git</a> e o <a href="https://nodejs.org/en/" target="_blank">Node.js</a>.
 Além disso, é bom ter uma IDE para trabalhar com o código. Eu recomendo o <a href="https://code.visualstudio.com" target="_blank">VSCode</a>.</p><br/>
 
+  
 
 <h2> 🚀 Rodando o projeto </h2>
 
@@ -112,9 +115,23 @@ $ npm run start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
-  <p></p>
+  <p></p><br/>
+ 
+  <h2> 👩🏻‍💻 Desenvolvedora</h2>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/mhsouza88" target="_blank">
+      <img src="https://avatars.githubusercontent.com/u/88038506?v=4" width="150px" alt="Maria Helena Souza"/>
+      <br />
+      <sub><b>Maria Helena Souza</b></sub>
+      <br />
+    </td>
+  </table>
   
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mhsouza88/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=LinkedIn&logoColor=white&color=informational"></a>
+  </p><br/>
   
 <p align="center">
-  🔝 <a href="#top">Voltar para o topo</a>
+  ⬆ <a href="#top"> Voltar para o topo</a>
   </p>
