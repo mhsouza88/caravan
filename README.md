@@ -1,5 +1,6 @@
-<h1 align='center'id="top"> Caravan ✈️ </h1><br/>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/88038506/141600688-9908633d-6d25-490b-9596-cabb82fa8b4f.png" alt="Logo">
+  </p>
 
 <p align="center">
   <a href="https://github.com/mhsouza88/caravan/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/static/v1?label=License&message=MIT&color=informational"></a>
