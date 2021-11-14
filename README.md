@@ -7,22 +7,22 @@
  </p>
  
  
- <h2> ⚛️ Sobre</h2>
+ <h2> ⚛️ﾠSobre</h2>
  <p>Projeto feito durante o curso de <b>Bootstrap 4</b> da <a href="https://www.origamid.com/" target="_blank">Origamid</a>. A Caravan é uma empresa fictícia que oferece planos de viagens a preços interessantes. O site não possui backend, porém com um pouco de JavaScript eu consegui simular algumas funcionalidades (por exemplo: quando o usuário clica no botão "enviar" de um dos formulários ele recebe uma mensagem dentro de um <i>span</i> que avisa que o conteúdo foi "enviado com sucesso"). Outra coisa que vale a pena mencionar é o fato de que o curso foi de Bootstrap 4 porém eu utilizei o React-Bootstrap 5 junto com o React.js para este projeto. Adicionei alguns elementos extras também (como um <i>Scroll to Top</i> e o <i>React-router-dom</i>).</p><br/>
  
  
- <h2> 🔗 Link (surge)</h2>
+ <h2> 🔗ﾠLink (surge)</h2>
  <p>- <a href="http://shocking-heart.surge.sh/" target="_blank">Caravan</a></p><br/>
 
 
-<h2> 🛠️ Tecnologias</h2>
+<h2> 🛠️ﾠTecnologias</h2>
 <p> - <a href="https://pt-br.reactjs.org/" target="_blank">React.js</a> (v17.0.2): React é uma biblioteca JavaScript para construção de interfaces de usuário.</p>
 <p> - <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> (v5.1): Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web usando HTML, CSS e JavaScript.</p>
 <p> - <a href="https://react-bootstrap.netlify.app/" target="_blank">React-Bootstrap</a> (v2.0.0-rc.1 - Bootstrap 5.1): O React-Bootstrap é uma biblioteca que oferece os componentes Bootstrap construídos em React.</p>
 <p> - <a href="https://v5.reactrouter.com/web/guides/quick-start" target="_blank">React-router-dom</a> (v5.3.0): O React Router é uma biblioteca do React que permite a navegação entre diversas partes da aplicação, como páginas.</p><br/>
 
 
-<h2> 🖼️ Imagens (clique em cima da imagem para vê-la em tamanho maior)</h2>
+<h2> 🖼️ﾠImagens (clique em cima da imagem para vê-la em tamanho maior)</h2>
 <table align="center">
   <tr>
     <td align="center"><a href="https://user-images.githubusercontent.com/88038506/141595248-3801972e-218b-4418-ac94-53532783a9c3.png" target="_blank">
@@ -83,14 +83,14 @@
   
   
  
-<h2> 💻 Pré-requisitos </h2>
+<h2> 💻ﾠPré-requisitos </h2>
 
 <p>Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas: o <a href="https://git-scm.com" target="_blank">Git</a> e o <a href="https://nodejs.org/en/" target="_blank">Node.js</a>.
 Além disso, é bom ter uma IDE para trabalhar com o código. Eu recomendo o <a href="https://code.visualstudio.com" target="_blank">VSCode</a>.</p><br/>
 
   
 
-<h2> 🚀 Rodando o projeto </h2>
+<h2> 🚀ﾠRodando o projeto </h2>
 
 ```bash
 # Clone este repositório
@@ -118,7 +118,7 @@ $ npm run start
 ```
   <p></p><br/>
  
-  <h2> 👩🏻‍💻 Desenvolvedora</h2>
+  <h2> 👩🏻‍💻ﾠDesenvolvedora</h2>
 <table align="center">
   <tr>
     <td align="center"><a href="https://github.com/mhsouza88" target="_blank">
