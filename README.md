@@ -134,5 +134,5 @@ $ npm run start
   </p><br/>
   
 <p align="center">
-  ⬆ <a href="#top"> Voltar para o topo</a>
+  ⬆ﾠ<a href="#top"> Voltar para o topo</a>
   </p>
